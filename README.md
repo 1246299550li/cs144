@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # cs144
-cs144 test
 =======
 For build prereqs, see [the CS144 VM setup instructions](https://web.stanford.edu/class/cs144/vm_howto).
 
@@ -75,4 +73,3 @@ To format (you'll need `clang-format`):
 To see all available targets,
 
     $ make help
->>>>>>> cs144
